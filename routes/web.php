@@ -22,6 +22,4 @@ Route::get('/hola', function () {
     return 'Hola mundo cruel';
 });
 
-
-
 require __DIR__.'/auth.php';
